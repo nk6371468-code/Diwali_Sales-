@@ -1,4 +1,3 @@
-# Diwali_Sales-
 # Diwali Sales Analysis
 
 This project focuses on analyzing **Diwali sales data** to understand customer purchasing behavior, sales trends, and product preferences. The dataset includes customer demographics, location, occupation, product categories, number of orders, and purchase amounts.
